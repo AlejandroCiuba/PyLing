@@ -16,4 +16,4 @@ This presentation looks at the various ways we can build and develop NLP pipelin
 10. Simple Transformer
 11. HuggingFace Classifiers
 
-If you find any errors or want to contribute to this notebook, just send a pull request!
+If you find any errors or want to contribute to this notebook, just send a pull request! This repository is completely free to use and do whatever you want with.
